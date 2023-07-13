@@ -1,2 +1,2 @@
 # bankingapp
-follow link :- https://banking01.netlify.app/
+follow link :- https://moneywise.netlify.app/
